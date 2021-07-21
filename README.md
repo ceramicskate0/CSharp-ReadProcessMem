@@ -1,5 +1,7 @@
 # CSharp-ReadProcessMem
 
+# Like the work dont forget to hit that Star Button and Sponsor
+
 ExecuteAssembly Read Proc Memory
 
 Admin likely Required. if the target is running as an admin
